@@ -1,0 +1,10 @@
+.poppins-medium {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+@font-face {
+  font-family: Poppins2;
+  src: url(font/poppins.thin.ttf);
+}
